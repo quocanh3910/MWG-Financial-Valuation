@@ -1,4 +1,4 @@
-Project Overview
+# Project Overview
 * This repository contains a comprehensive Investment Research Report and Financial Valuation Model for Mobile World Investment Corp (HOSE: MWG), Vietnam's leading omni-channel retailer.
 
 * The analysis was conducted focusing on a deep dive into the company's restructuring post-2024, the profitability pivot of the Bách Hóa Xanh (BHX) grocery chain, and the expansion of the EraBlue joint venture in Indonesia.
