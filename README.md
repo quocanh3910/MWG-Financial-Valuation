@@ -1,4 +1,4 @@
-# Project Overview
+Project Overview
 * This repository contains a comprehensive Investment Research Report and Financial Valuation Model for Mobile World Investment Corp (HOSE: MWG), Vietnam's leading omni-channel retailer.
 
 * The analysis was conducted focusing on a deep dive into the company's restructuring post-2024, the profitability pivot of the Bách Hóa Xanh (BHX) grocery chain, and the expansion of the EraBlue joint venture in Indonesia.
@@ -8,6 +8,8 @@ Investment Horizon: 12 Months
 
 # Investment Thesis
 I issue a BUY recommendation with a target price of 91,100 VND, representing a +13.9% upside from the current market price.
+
+![image alt](<img width="1848" height="846" alt="image" src="https://github.com/user-attachments/assets/0d76f694-40c7-44aa-8c18-bc2cd78b09aa" />)
 
 Key Drivers
 * Operational Efficiency: Q3 2025 results show a record profit of 1,783 billion VND (2.2x YoY), validating the "Reduce Quantity – Enhance Quality" strategy.
