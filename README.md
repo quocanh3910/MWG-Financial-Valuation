@@ -4,7 +4,6 @@
 * The analysis was conducted focusing on a deep dive into the company's restructuring post-2024, the profitability pivot of the Bách Hóa Xanh (BHX) grocery chain, and the expansion of the EraBlue joint venture in Indonesia.
 
 * Valuation Date: November 22, 2025 
-* Investment Horizon: 12 Months
 * Download MWG's Valuation Projects here: <a href="https://github.com/quocanh3910/Quoc-Anh-s-Portfolio/blob/ebfacbbc30810bc8f63ee436b923c1cc3243825f/MWG.xlsx">MWG's Financial Valuation</a>
 * Download my MWG's Research Report here: <a href="https://drive.google.com/file/d/1zxhghoUx-UDsavnz2bmQUMPYG1v5L3jC/view?usp=drive_link">MWG's Research Report</a>
 
