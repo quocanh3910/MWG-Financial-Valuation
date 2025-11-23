@@ -19,6 +19,30 @@ Key Drivers
 
 * Valuation Support: MWG trades at a Forward P/E significantly lower than its historical average and peers like FPT Retail (FRT), offering a margin of safety.
 
+##  Strategic Deep Dive
+
+This project analyzes MWG's pivot from a cyclical ICT retailer to a stable Consumer Staples provider.
+
+| Segment | Status | 2025 Strategy |
+| :--- | :--- | :--- |
+| **ICT/CE (TGDD & DMX)** | Cash Cow  | Optimize OPEX, focus on premium products (Apple), generate cash for BHX. |
+| **Grocery (Bach Hoa Xanh)** | Star  | Expand network to Central/North Vietnam, target **63T VND** revenue based on forecast. |
+| **Indonesia (EraBlue)** | Question Mark  | Scale up to 150 stores, aiming for market leadership in Indonesia. |
+
+![image_url]()
+---
+
+### Relative Valuation Matrix (2025F)
+
+Despite being the market leader by revenue scale, MWG currently trades at a significant discount compared to its direct competitors, offering a "Margin of Safety".
+
+| Company | Ticker | Forward P/E | EV/EBITDA | EV/Revenue | Core Strength |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **Mobile World** | **MWG** | **~17.2x** | **9.3x** | **1.05x** | **Market Leader + Profit Recovery** |
+| FPT Retail | FRT | 26.95x | 16.25x | 0.59x | High-growth Pharma (Long Chau) |
+| Masan Group | MSN | 24.10x | 9.28x | 1.96x | Consumer Ecosystem & FMCG |
+| Digiworld | DGW | 14.88x | 14.40x | 0.50x | ICT Distribution & Efficiency |
+
 ## Valuation Methodology
 
 The target price was derived using a **Discounted Cash Flow (DCF)** model under a **Base Case** scenario.
@@ -47,17 +71,6 @@ The target price was derived using a **Discounted Cash Flow (DCF)** model under 
 | **10.62%** | 84,593 | 87,683 | **91,099** | 94,956 | 99,265 |
 | **10.82%** | 80,417 | 83,162 | **86,201** | 89,579 | 93,352 |
 
-##  Strategic Deep Dive
-
-This project analyzes MWG's pivot from a cyclical ICT retailer to a stable Consumer Staples provider.
-
-| Segment | Status | 2025 Strategy |
-| :--- | :--- | :--- |
-| **ICT/CE (TGDD & DMX)** | Cash Cow  | Optimize OPEX, focus on premium products (Apple), generate cash for BHX. |
-| **Grocery (Bach Hoa Xanh)** | Star  | Expand network to Central/North Vietnam, target **63T VND** revenue based on forecast. |
-| **Indonesia (EraBlue)** | Question Mark  | Scale up to 150 stores, aiming for market leadership in Indonesia. |
-
----
 
 ## Key Risks
 *   **Execution Risk (An Khang Pharmacy):** Ongoing restructuring needed to reach breakeven; currently lagging behind competitor Long Chau.
@@ -69,4 +82,6 @@ This project analyzes MWG's pivot from a cyclical ICT retailer to a stable Consu
 ##  Method Used
 *   **Financial Modeling:** Excel (DCF, Sensitivity Tables, Scenario Manager).
 *   **Data Analysis:** Historical financial statement analysis, Peer benchmarking.
+
+
 ---
